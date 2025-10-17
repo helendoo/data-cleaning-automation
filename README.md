@@ -34,6 +34,7 @@ python clean_data.py
 
 ----------------------------------------------------------------
 
-WHY THIS PROJECT?
+## WHY THIS PROJECT?
 Data cleaning is one of the most time-consuming steps in analytics.
 This project shows how Python automation can replace manual Excel work and ensure consistent, high-quality datasets for analysis or dashboards.
+
